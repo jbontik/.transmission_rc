@@ -24,7 +24,7 @@
     "message-level": 1, 
     "peer-congestion-algorithm": "", 
     "peer-id-ttl-hours": 6, 
-    "peer-limit-global": 50, 
+    "peer-limit-global": 30, 
     "peer-limit-per-torrent": 5, 
     "peer-port": 51413, 
     "peer-port-random-high": 65535, 
