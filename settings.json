@@ -61,6 +61,6 @@
     "start-added-torrents": true, 
     "trash-original-torrent-files": false, 
     "umask": 18, 
-    "upload-slots-per-torrent": 3, 
+    "upload-slots-per-torrent": 2, 
     "utp-enabled": false
 }
